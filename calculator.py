@@ -32,7 +32,8 @@ def basic_calculator():
                 print("\nError: You cannot divide by zero!")
         else:
             print("\nInvalid input! Please use one of the four operators provided.")
-            
+
+    # error
     except ValueError:
         print("\nInput Error: Please make sure to enter numeric values.")
 
