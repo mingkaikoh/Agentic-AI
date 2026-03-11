@@ -5,8 +5,7 @@ def basic_calculator():
         # Inputting the two double (float) variables
         num1 = float(input("Enter the first number: "))
         num2 = float(input("Enter the second number: "))
-
-        # operation
+        
         print("\nChoose an operation:")
         print(" +  for Addition")
         print(" -  for Subtraction")
