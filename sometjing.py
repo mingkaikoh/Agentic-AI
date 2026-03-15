@@ -8,3 +8,8 @@ if (x == 3):
 
 else:
     print("x is less than 3 and x is ", x)
+
+y = x
+
+if y == x:
+    print("y is equal to x and y is ", y)
