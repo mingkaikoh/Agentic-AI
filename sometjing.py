@@ -8,5 +8,3 @@ if (x == 3):
 
 else:
     print("x is less than 3 and x is ", x)
-
-# end
