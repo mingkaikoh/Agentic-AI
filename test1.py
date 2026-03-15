@@ -1,7 +1,7 @@
 print("dynami")
 print("just a test")
 
-# what is x
+# what is x num
 x = 13
 
 if x == 9:
