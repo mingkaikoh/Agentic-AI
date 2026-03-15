@@ -1,6 +1,3 @@
-print("dynami")
-print("just a test")
-
 # what is x num
 x = 13
 
@@ -12,4 +9,4 @@ elif x == 13:
     print("x is equal to 13 and x is ", x)
     print("x is greater than 9")
 
-# nothing
+# end
