@@ -12,3 +12,6 @@ y = x
 
 if y == x:
     print("y is equal to x and y is ", y)
+
+else:
+    print("y is not equal to x and y is ", y)
