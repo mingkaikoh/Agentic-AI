@@ -38,4 +38,8 @@ def basic_calculator():
         print("\nInput Error: Please make sure to enter numeric values.")
 
 # Run the calculator
-basic_calculator()
+def main():
+    basic_calculator()
+
+if __name__ == "__main__":
+    main()
