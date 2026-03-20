@@ -28,8 +28,6 @@ def basic_calculator():
             if num2 != 0:
                 result = num1 / num2
                 print(f"\nResult: {num1} / {num2} = {result}")
-            else:
-                print("\nError: You cannot divide by zero!")
 
     # error
     except ValueError:
