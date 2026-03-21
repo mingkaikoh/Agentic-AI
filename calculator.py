@@ -2,9 +2,9 @@ def basic_calculator():
     print("--- Simple Python Calculator ---")
     
     try:
-        # Inputting the two double (float) variables
-        num1 = float(input("Enter the first number: "))
-        num2 = float(input("Enter the second number: "))
+        # Inputting the two variables
+        num1 = int(input("Enter the first number: "))
+        num2 = int(input("Enter the second number: "))
         
         print("\nChoose an operation:")
         print(" +  for Addition")
