@@ -2,7 +2,6 @@ def basic_calculator():
     print("--- Simple Python Calculator ---")
     
     try:
-        # Inputting the two variables
         num1 = int(input("Enter the first number: "))
         num2 = int(input("Enter the second number: "))
         
