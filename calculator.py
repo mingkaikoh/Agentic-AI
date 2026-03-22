@@ -40,3 +40,4 @@ if __name__ == "__main__":
     basic_calculator()
     hello = "Hello, World!"
     print(hello)
+    hello()
