@@ -38,3 +38,5 @@ def main():
 if __name__ == "__main__":
     main()
     basic_calculator()
+    hello = "Hello, World!"
+    print(hello)
