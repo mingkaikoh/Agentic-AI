@@ -26,7 +26,7 @@ def xmum_grading_system():
         print(f"Calculated Grade: {grade}")
 
         if grade == 'Fail':
-            print("Status: Required to resit.")
+            print("Status: Required to resit the subjects.")
         else:
             print("Status: Requirements met.")
 
