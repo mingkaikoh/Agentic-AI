@@ -6,10 +6,10 @@ def basic_calculator():
         num2 = int(input("Enter the second number: "))
         
         print("\nChoose an operation:")
-        print(" +  for Addition")
-        print(" -  for Subtraction")
-        print(" * for Multiplication")
-        print(" /  for Division")
+        print(" +")
+        print(" -")
+        print(" *")
+        print(" /")
         
         choice = input("\nEnter choice (+, -, *, /): ")
 
