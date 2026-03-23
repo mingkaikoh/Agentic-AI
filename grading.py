@@ -31,7 +31,7 @@ def xmum_grading_system():
             print("Status: Requirements met. Congrats!")
 
     except ValueError:
-        print("Input Error: Marks must be a numerical value.")
+        print("Marks must be a numerical value.")
 
 if __name__ == "__main__":
     xmum_grading_system()
