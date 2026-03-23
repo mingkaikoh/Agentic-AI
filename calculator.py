@@ -25,7 +25,7 @@ def basic_calculator():
             print(f"\nResult: {num1} * {num2} = {result}")
         elif choice == '/':
             result = num1 / num2
-            print(f"\nResult: {num1}  {num2} = {result}")
+            print(f"\nResult: {num1} / {num2} = {result}")
 
     # error
     except ValueError:
