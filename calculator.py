@@ -27,7 +27,6 @@ def basic_calculator():
             result = num1 / num2
             print(f"\nResult: {num1} / {num2} = {result}")
 
-    # error
     except ValueError:
         print("\nInput Error: Please make sure to enter numeric values.")
 
