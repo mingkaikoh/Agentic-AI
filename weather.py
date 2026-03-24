@@ -1,7 +1,7 @@
 def get_weather_advice(city):
     weather_data = {
         "Kuala Lumpur": {"temp": 32, "condition": "Sunny"},
-        "Sepang": {"temp": 30, "condition": "Rainy"},
+        "Sepang": {"temp": 29, "condition": "Rainy"},
         "Xiamen": {"temp": 22, "condition": "Cloudy"}
     }
     
